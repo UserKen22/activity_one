@@ -25,6 +25,7 @@
     /* Style the form container */
     #registrationForm {
       background-color: transparent;
+      color: #fff;
       border: 2px solid #ccc;
       padding: 20px;
       border-radius: 5px;
